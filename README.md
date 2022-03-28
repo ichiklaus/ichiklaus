@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Nicolás, I study Computer Systems Engineering at <a style="color:#64ffda" href="https://utm.edu.ec/">Universidad Técnica de Manabí</a>. I'm building my software engineering skills as I'm working on my theses and on my spare time I'm building my web development skills.
+I'm Nicolás, I study Computer Systems Engineering at <a style="color:#64ffda" href="https://utm.edu.ec/">Universidad Técnica de Manabí</a>. I'm currently working on my theses and on my spare time I'm building my web development skills.
 
 - 🔭 I’m currently working on side projects to build up my portfolio.
 - 🌱 I’m currently learning React.
