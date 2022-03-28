@@ -10,4 +10,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: nicola1994n@gmail.com
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ichiklaus&langs_count=8&layout=compact)](https://github.com/ichiklaus/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ichiklaus&langs_count=8&layout=compact&bg_color=#233554&exclude_repo=JPMC-tech-task-1-py3)](https://github.com/ichiklaus/github-readme-stats)
