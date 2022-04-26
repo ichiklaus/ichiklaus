@@ -4,7 +4,7 @@ I'm Nicolás, I study Computer Systems Engineering at <a style="color:#64ffda" h
 
 - 🔭 I’m currently working on side projects to build up my portfolio.
 - 🌱 I’m currently learning React.
-- 📫 How to reach me: mail me @[Yeraldo Nicolás](mailto:nicola1994n@gmail.com?subject=I) 
+- 📫 How to reach me: mail me @[Yeraldo Nicolás](mailto:nicola1994n@gmail.com?subject=I+saw+your+github+profile+and+I'm+interested+in+you+for+...) 
 
 
 <!--
