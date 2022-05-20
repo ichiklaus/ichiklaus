@@ -1,6 +1,10 @@
 ### Hi there 👋
 
+<!--
 I'm Nicolás, I study Information Systems Engineering at <a style="color:#64ffda" href="https://utm.edu.ec/">Universidad Técnica de Manabí</a>. I'm currently working on my theses and on my spare time I'm honing my web development skills and learning a bit of UX/UI design.
+-->
+
+I'm Nicolás. I studied Information Systems Engineering and now I'm growing my professional career as a web developer.
 
 - 🔭 I’m currently working on side projects to build up my portfolio.
 - 🌱 I’m currently learning React, React Hooks, Figma, UX.
