@@ -4,11 +4,15 @@
 I'm Nicolás, I study Information Systems Engineering at <a style="color:#64ffda" href="https://utm.edu.ec/">Universidad Técnica de Manabí</a>. I'm currently working on my theses and on my spare time I'm honing my web development skills and learning a bit of UX/UI design.
 -->
 
-I'm Nicolás. I studied Information Systems Engineering and now I'm growing my professional career as a web developer.
+I'm Nicolás, a Frontend Developer. I studied Information Systems Engineering at [UTM](https://www.utm.edu.ec/).
 
-- 🔭 I’m currently working on side projects to build up my portfolio.
-- 🌱 I’m currently learning React, React Hooks, Figma, UX.
-- 📫 How to reach me: mail me @[Yeraldo Nicolás](mailto:nicola1994n@gmail.com?subject=I+saw+your+github+profile+and+I'm+interested+in+you+for+...) 
+
+- I’m currently working on side projects to build up my portfolio.
+- I’m currently learning React, Next.js, and Firebase.
+- I also like checking out awesome UI/UX projects to get inspired and learn from them.
+- And I have some experience with Wordpress, Divi, and Elementor.
+
+How to reach me? Mail me @[nicola1994n@gmail.com](mailto:nicola1994n@gmail.com?subject=I+saw+your+github+profile+and+I'm+interested+in+you+for+...) 
 
 
 <!--
