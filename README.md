@@ -7,12 +7,13 @@ I'm Nicolás, I study Information Systems Engineering at <a style="color:#64ffda
 I'm Nicolás, a Frontend Developer. I studied Information Systems Engineering at [UTM](https://www.utm.edu.ec/).
 
 
+<!--
 - I’m currently working on side projects to build up my portfolio.
 - I’m currently learning React, Next.js, and Firebase.
 - I also like checking out awesome UI/UX projects to get inspired and learn from them.
 - And I have some experience with Wordpress, Divi, and Elementor.
 
-How to reach me? Mail me @[nicola1994n@gmail.com](mailto:nicola1994n@gmail.com?subject=I+saw+your+github+profile+and+I'm+interested+in+you+for+...) 
+How to reach me? Mail me @[nicola1994n@gmail.com](mailto:nicola1994n@gmail.com?subject=I+saw+your+github+profile+and+I'm+interested+in+you+for+...) -->
 
 
 <!--
