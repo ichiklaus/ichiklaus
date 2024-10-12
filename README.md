@@ -4,7 +4,7 @@
 I'm Nicolás, I study Information Systems Engineering at <a style="color:#64ffda" href="https://utm.edu.ec/">Universidad Técnica de Manabí</a>. I'm currently working on my theses and on my spare time I'm honing my web development skills and learning a bit of UX/UI design.
 -->
 
-I'm Nicolás, a Frontend Developer. I studied Information Systems Engineering at [UTM](https://www.utm.edu.ec/).
+I'm Nicolás, a Frontend Web Developer. I have a degree in Information Systems Engineering.
 
 
 <!--
